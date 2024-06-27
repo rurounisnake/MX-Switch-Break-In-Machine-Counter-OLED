@@ -1,0 +1,1 @@
+This is code written in MicroPython for a simple counter and elapsed time  display using RP2040 boards and SSD1306 OLED (128x32)
